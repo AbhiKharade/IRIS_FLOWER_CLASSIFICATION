@@ -39,14 +39,14 @@ Compare models using accuracy
 Save the best model as iris_model.pkl
 
 **Install One by One**
-pip install pandas
-pip install numpy
-pip install scikit-learn
-pip install joblib
-pip install flask
-pip install matplotlib
-pip install seaborn
-pip install jupyter
+pip install pandas <br>
+pip install numpy <br>
+pip install scikit-learn<br>
+pip install joblib<br>
+pip install flask<br>
+pip install matplotlib<br>
+pip install seaborn<br>
+pip install jupyter<br>
 
 **Dataset Path**
 https://www.kaggle.com/datasets/arshid/iris-flower-dataset
